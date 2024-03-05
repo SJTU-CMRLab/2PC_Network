@@ -23,5 +23,14 @@ scipy==1.8.1 <br />
 torch==1.11.0 <br />
 torchvision==0.12.0 <br />
 ## How to use
+Details of the code are as follows:
+
+(./train.py): To train the dual-encoder neural network.
+
+> ./test.py: To test the dual-encoder neural network.
+
+> ./data: It contains training data and testing data. Training data consists of bSSFP data with 12 different RF phase increments and corresponding labels.
+
+> ./model: It contains trained model, which can be used in the testing process.
 
 ## How to cite this work
