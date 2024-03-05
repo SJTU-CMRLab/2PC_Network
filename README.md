@@ -34,3 +34,5 @@ Details of the code are as follows:
 [model](https://github.com/SJTU-CMRLab/2PC_Network/blob/main/model): It contains trained model, which can be used in the testing process.
 
 ## How to cite this work
+If you want to cite this work or use part of the code, please cite:  <br />
+
