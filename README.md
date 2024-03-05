@@ -1,9 +1,9 @@
 # Joint suppression of cardiac bSSFP cine banding and flow artifacts using twofold phase-cycling and a dual-encoder neural network
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="image.png">
+ <source media="(prefers-color-scheme: light)" srcset="image.png">
+ <img alt="YOUR-ALT-TEXT" src="image.png">
 </picture>
 
 ## Abstract
