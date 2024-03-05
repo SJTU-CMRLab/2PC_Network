@@ -25,12 +25,12 @@ torchvision==0.12.0 <br />
 ## How to use
 Details of the code are as follows:
 
-.[./train.py].: To train the dual-encoder neural network.
+[train.py](https://github.com/SJTU-CMRLab/2PC_Network/blob/main/train.py): To train the dual-encoder neural network.
 
-> ./test.py: To test the dual-encoder neural network.
+[test.py](https://github.com/SJTU-CMRLab/2PC_Network/blob/main/test.py): To test the dual-encoder neural network.
 
-> ./data: It contains training data and testing data. Training data consists of bSSFP data with 12 different RF phase increments and corresponding labels.
+[data](https://github.com/SJTU-CMRLab/2PC_Network/blob/main/data): It contains training data and testing data. Training data consists of bSSFP data with 12 different RF phase increments and corresponding labels.
 
-> ./model: It contains trained model, which can be used in the testing process.
+[model](https://github.com/SJTU-CMRLab/2PC_Network/blob/main/model): It contains trained model, which can be used in the testing process.
 
 ## How to cite this work
