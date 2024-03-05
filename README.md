@@ -25,7 +25,7 @@ torchvision==0.12.0 <br />
 ## How to use
 Details of the code are as follows:
 
-(./train.py): To train the dual-encoder neural network.
+.[./train.py].: To train the dual-encoder neural network.
 
 > ./test.py: To test the dual-encoder neural network.
 
